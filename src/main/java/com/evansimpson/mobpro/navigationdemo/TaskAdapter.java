@@ -31,7 +31,7 @@ public class TaskAdapter extends ArrayAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         View row = convertView;
-        RowHolder holder = null;
+        RowHolder holder;
         final int pos = position;
 
         if(row == null)
@@ -42,7 +42,6 @@ public class TaskAdapter extends ArrayAdapter {
             holder = new RowHolder();
             holder.delete_button = (Button)row.findViewById(R.id.button_del);
             holder.task_text = (TextView)row.findViewById(R.id.row_text);
-
             row.setTag(holder);
         }
 
