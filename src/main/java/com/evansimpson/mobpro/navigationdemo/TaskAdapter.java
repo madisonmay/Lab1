@@ -29,10 +29,9 @@ public class TaskAdapter extends ArrayAdapter {
     }
 
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(final int position, View convertView, ViewGroup parent) {
         View row = convertView;
         RowHolder holder;
-        final int pos = position;
 
         if(row == null)
         {
@@ -47,7 +46,7 @@ public class TaskAdapter extends ArrayAdapter {
 
         else
         {
-            holder = (RowHolder)row.getTag();
+            holder = (RowHolder) row.getTag();
         }
 
         String task = data.get(position);
@@ -55,8 +54,8 @@ public class TaskAdapter extends ArrayAdapter {
         holder.delete_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                data.remove(pos);
-                notifyDataSetChanged();
+            data.remove(position);
+            notifyDataSetChanged();
             }
         });
 
