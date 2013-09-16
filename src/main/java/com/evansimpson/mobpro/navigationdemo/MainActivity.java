@@ -43,6 +43,7 @@ public class MainActivity extends ListActivity {
             public void onClick(View view) {
                 EditText editText = (EditText)findViewById(R.id.editText);
                 listItems.add(editText.getText().toString());
+                editText.setText("");
                 adapter.notifyDataSetChanged();
 
 //                Button delete_button = new Button(getApplicationContext());

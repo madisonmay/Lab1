@@ -10,6 +10,9 @@
       <config />
     </shared>
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/MainActivity.java" line="46" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3ab0bfd5-aaef-4731-a707-e15da1df6247" name="Default" comment="" />
     <ignored path="Lab1.iws" />
@@ -77,10 +80,8 @@
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="40" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-6.9310346" vertical-offset="219" max-vertical-offset="750">
-              <folding>
-                <element signature="e#714#734#0" expanded="true" />
-              </folding>
+            <state line="28" column="40" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="750">
+              <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
@@ -91,11 +92,8 @@
       <file leaf-file-name="listrow.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/listrow.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="31" selection-start="1078" selection-end="1078" vertical-scroll-proportion="-10.793103" vertical-offset="92" max-vertical-offset="630">
-              <folding>
-                <element signature="e#678#698#0" expanded="true" />
-                <element signature="e#1072#1078#0" expanded="true" />
-              </folding>
+            <state line="27" column="31" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="630">
+              <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
@@ -106,7 +104,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+            <state line="28" column="0" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -115,11 +113,9 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="3" selection-start="437" selection-end="437" vertical-scroll-proportion="0.08739837" vertical-offset="17" max-vertical-offset="915">
+            <state line="46" column="47" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.94512194" vertical-offset="0" max-vertical-offset="885">
               <folding>
                 <element signature="e#570#578#0" expanded="true" />
-                <element signature="e#1156#1871#0" expanded="true" />
-                <element signature="e#1860#1861#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,11 +125,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/TaskAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="57" column="44" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1170">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1570#1763#0" expanded="true" />
-                <element signature="e#1752#1753#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -141,7 +133,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+            <state line="11" column="0" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -158,13 +150,13 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/SecondActivity.java" />
-        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/Task/java.java" />
         <option value="$PROJECT_DIR$/src/main/res/layout/listrow.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/MainActivity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/TaskAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -200,8 +192,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,11 +287,15 @@
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="recentsLimit" value="5" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="AVD_for_Nexus_4" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab0" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.50.102:5555" />
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.main">
@@ -397,8 +393,8 @@
       <option name="ACTIVITY_CLASS" value="com.evansimpson.mobpro.navigationdemo.MainActivity" />
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="AVD_for_Nexus_4" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
       <option name="WIPE_USER_DATA" value="false" />
@@ -443,7 +439,6 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33420196" sideWeight="0.6709511" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -462,6 +457,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33420196" sideWeight="0.6709511" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -484,8 +480,6 @@
         <state line="13" column="3" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="735">
           <folding>
             <element signature="e#570#578#0" expanded="true" />
-            <element signature="e#1156#1871#0" expanded="true" />
-            <element signature="e#1860#1861#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -498,15 +492,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state line="35" column="17" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="615">
-          <folding>
-            <element signature="e#714#734#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
@@ -521,8 +513,6 @@
         <state line="13" column="3" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="735">
           <folding>
             <element signature="e#570#578#0" expanded="true" />
-            <element signature="e#1156#1871#0" expanded="true" />
-            <element signature="e#1860#1861#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -535,15 +525,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state line="35" column="17" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <folding>
-            <element signature="e#714#734#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
@@ -558,8 +546,6 @@
         <state line="13" column="3" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="735">
           <folding>
             <element signature="e#570#578#0" expanded="true" />
-            <element signature="e#1156#1871#0" expanded="true" />
-            <element signature="e#1860#1861#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -578,32 +564,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+        <state line="28" column="40" selection-start="1041" selection-end="1041" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="750">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="40" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-6.9310346" vertical-offset="219" max-vertical-offset="750">
-          <folding>
-            <element signature="e#714#734#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/listrow.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="31" selection-start="1078" selection-end="1078" vertical-scroll-proportion="-10.793103" vertical-offset="92" max-vertical-offset="630">
-          <folding>
-            <element signature="e#678#698#0" expanded="true" />
-            <element signature="e#1072#1078#0" expanded="true" />
-          </folding>
+        <state line="27" column="31" selection-start="1078" selection-end="1078" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="630">
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -613,21 +587,22 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/TaskAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="44" selection-start="1665" selection-end="1665" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="1170">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1570#1763#0" expanded="true" />
-            <element signature="e#1752#1753#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="846" selection-end="846" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/evansimpson/mobpro/navigationdemo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="3" selection-start="437" selection-end="437" vertical-scroll-proportion="0.08739837" vertical-offset="17" max-vertical-offset="915">
+        <state line="46" column="47" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.94512194" vertical-offset="0" max-vertical-offset="885">
           <folding>
             <element signature="e#570#578#0" expanded="true" />
-            <element signature="e#1156#1871#0" expanded="true" />
-            <element signature="e#1860#1861#0" expanded="true" />
           </folding>
         </state>
       </provider>
